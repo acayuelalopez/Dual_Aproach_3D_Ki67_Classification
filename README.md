@@ -1,4 +1,4 @@
-# Dual Approeach for 3D Ki67 Classification Workflow
+# Dual Approach for 3D Ki67 Classification Workflow
 
 ## Overview
 
