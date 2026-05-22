@@ -67,7 +67,7 @@ def outputDir = new File("path/to/csv")
 ### 4. Run the script
 - Click ``Run``
 
-### Outputs
+## Outputs
 ### Per-image results
 ``3DAnalysis_perImage_new.csv``
 
