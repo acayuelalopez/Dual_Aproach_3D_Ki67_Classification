@@ -1,4 +1,4 @@
-# 3D Ki67 Quantification Workflow from Confocal Images
+# Dual Approeach for 3D Ki67 Classification Workflow
 
 ## Overview
 
